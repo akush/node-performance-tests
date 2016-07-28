@@ -7,6 +7,8 @@ Last test ran at 28 Jul 2016 with followings:
 * CPU: **2.3 GHz Intel Core i7**
 
 npm packages:
+* node: **6.3.0**
+* npm: **3.10.6**
 * restify: **4.1.1**
 * express: **4.14.0**
 * koa: **1.2.1**
